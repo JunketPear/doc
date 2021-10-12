@@ -1,11 +1,6 @@
 
-> 文档测试站。
+> Easyarea跳转站
 
-- 自豪的使用doscify搭建 
-- 使用github进行托管
-
-[GitHub](https://github.com/laoyali/)
-[正在建设...](#abcde)
-[正在建设...](#abcde)
-[正在建设...](#abcde)
-[正在建设...](#abcde)
+[Easyarea MC服务器](http://www.easyareamc.cn)
+[Easyarea Cloud](http://www.easyareacloud.com)
+[更多链接，敬请期待](#abcde)
