@@ -10,4 +10,4 @@
 
 [Easyarea MC服务器](http://www.easyareamc.cn)
 [Easyarea Cloud](http://www.easyareacloud.com)
-[进入文档](http://site.easyareamc.cn/easyarea)
+[向下查看文档](#nmsl)
