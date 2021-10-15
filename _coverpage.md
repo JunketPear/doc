@@ -3,4 +3,5 @@
 
 [Easyarea MC服务器](http://www.easyareamc.cn)
 [Easyarea Cloud](http://www.easyareacloud.com)
-[更多链接，敬请期待](#abcde)
+[进入文档](#easyarea)
+[更多链接，敬请期待]()
