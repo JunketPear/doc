@@ -1,5 +1,5 @@
 
-# Easyarea <small>3.5</small>
+# Easyarea
 
 > Easyarea MC Server & Easyarea Cloud
 
