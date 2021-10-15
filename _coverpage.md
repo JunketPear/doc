@@ -1,11 +1,13 @@
 
-> Easyarea
-  >下面为官网链接和文档链接
-  >使用docsify搭建！
-  >感谢github的托管！
-  >感谢酪鸭梨对网站的建设！
+# Easyarea <small>3.5</small>
+
+> Easyarea MC Server & Easyarea Cloud
+
+- 多样性，开放性的服务器
+- 高质量，快速度的云服务
+- 感谢 酪鸭梨 对此网站的编写！
+- 自豪的使用docsify构建并使用github托管
 
 [Easyarea MC服务器](http://www.easyareamc.cn)
 [Easyarea Cloud](http://www.easyareacloud.com)
 [进入文档](http://site.easyareamc.cn/easyarea)
-[更多链接，敬请期待]()
