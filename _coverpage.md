@@ -1,5 +1,5 @@
 
-> Easyarea文档站
+> Easyarea
   >下面为官网链接和文档链接
   >使用docsify搭建！
   >感谢github的托管！
