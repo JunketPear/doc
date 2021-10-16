@@ -2,6 +2,8 @@
   *  [简介](server/简介.md)
   *  [服务器列表](list.md)
     *  [一服](server/1.md)
+      *  [插件列表](server/1/plugins.md)
+        *  [施工ing.....]
     *  [二服](server/1.md)
     *  [三服](server/1.md)
     *  [四服](server/1.md)
